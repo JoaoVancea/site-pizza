@@ -10,3 +10,9 @@
 .botoesPizza {
     background-color: #FDCE2A;
 }
+.secaoBotoes__botao {
+    align-content: center;
+}
+.secaoBotoes__botao p {
+    width: 500px;
+}

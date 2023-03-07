@@ -1,6 +1,11 @@
 /* configuração do conteúdo da página */
 main {
+    display: flex;
     padding: 1%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
 }
 h1 {
     position: relative;
